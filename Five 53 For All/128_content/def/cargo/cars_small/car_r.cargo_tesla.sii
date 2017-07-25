@@ -1,0 +1,30 @@
+SiiNunit
+{
+trailer_def : .car_r.cargo_tesla
+{
+	trailer: trailer.box_pup_3
+	mass: 12927.4
+	volume_factor: 1.25
+	length: 28
+	cargo_mass_ratio[]: 0.2
+	cargo_mass_ratio[]: 0.1
+	cargo_mass_ratio[]: 0.1
+	cargo_mass_ratio[]: 0.1
+	cargo_mass_ratio[]: 0.1
+	cargo_mass_ratio[]: 0.1
+	cargo_mass_ratio[]: 0.1
+	cargo_mass_ratio[]: 0.1
+	cargo_mass_ratio[]: 0.1
+	cog_offset: 9
+	cog_offset[]: (0, 1, 0)
+	cog_offset[]: (0, 0, 0)
+	cog_offset[]: (0, 1, 0)
+	cog_offset[]: (0, 0, 0)
+	cog_offset[]: (0, 1, 0)
+	cog_offset[]: (0, 0, 0)
+	cog_offset[]: (0, 1, 0)
+	cog_offset[]: (0, 0, 0)
+	cog_offset[]: (0, 1, 0)
+}
+}
+

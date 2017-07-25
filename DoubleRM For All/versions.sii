@@ -1,0 +1,13 @@
+SiiNunit
+{
+package_version_info : .universal
+{
+    package_name: "universal"
+}
+
+package_version_info : .128_content
+{
+    package_name: "128_content"
+    compatible_versions[]: "1.28.*"
+}
+}
