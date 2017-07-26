@@ -1,0 +1,13 @@
+SiiNunit
+{
+trailer_def : .gooseneck.cargo30
+{
+	trailer: trailer.krone.profiliner_d
+	mass: 14210
+	volume_factor: 1.2
+	cargo_mass_ratio[]: 0.67
+	cargo_mass_ratio[]: 0.33
+	cog_offset: 2
+	cog_offset[]: (0, 0.39, 0)
+	cog_offset[]: (0, 0.39, 0)
+	}}
